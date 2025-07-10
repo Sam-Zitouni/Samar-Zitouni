@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kawaī Michi</h1>
+<h1 align="center">Hi 👋, I'm Samar Zitouni</h1>
 <h3 align="center">A passionate AI / Data Science enthusiast from Tunisia</h3>
 
 - 🌱 I’m currently learning **AI, ML, Deep Learning, and Reinforcement Learning**
